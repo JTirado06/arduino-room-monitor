@@ -15,9 +15,7 @@ An Arduino UNO room monitor that displays temperature, humidity, and relative am
 
 ## Demo video
 
-*Demo video to be added.*
-
-<!-- Edit this README on GitHub, remove the placeholder above, and drag your video into this section in the editor. Wait for the upload to finish, keep the generated attachment link, and commit the README. If GitHub rejects the file size or format, upload a shorter/compressed MP4 or replace the placeholder with a link to an externally hosted video. -->
+https://github.com/user-attachments/assets/81955b11-005c-4958-a278-3378cb21f792
 
 ## Hardware
 
